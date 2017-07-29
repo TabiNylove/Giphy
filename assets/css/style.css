@@ -1,0 +1,11 @@
+body {
+	background-color: pink;
+}
+
+#alphaGifDiv {
+	float: left;
+}
+
+#inputDiv {
+	display: flex;
+}
